@@ -1,0 +1,15 @@
+boto3>=1.35.0
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+numpy>=1.26
+pandas>=2.2
+streamlit>=1.37
+python-dotenv>=1.0
+```txt
+anthropic>=0.35.0
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+numpy>=1.26
+pandas>=2.2
+streamlit>=1.37
+python-dotenv>=1.0
